@@ -1,1 +1,1 @@
-# Battleship-primal
+# Battleship
